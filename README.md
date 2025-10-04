@@ -1,9 +1,11 @@
 # sql
 
-Система управления базами данных — PostgreSQL.
-![DB_schema](https://github.com/user-attachments/assets/16b0149d-f5a5-4a79-b43e-133f48267a62)
 День 0-3 - Базовый синтаксис SQL: использование SELECT, JOIN, UNION и т. д.
 
 День 4 - Задача посвящена виртуальным представлениям и физическим снимкам данных.
 
 День 8 - Транзакции и уровни изоляции.
+
+Система управления базами данных — PostgreSQL.
+![DB_schema](https://github.com/user-attachments/assets/16b0149d-f5a5-4a79-b43e-133f48267a62)
+
